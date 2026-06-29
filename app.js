@@ -49,7 +49,7 @@
 // TASK : 9
 // let user=prompt('Give me number')
 // for(let a = 1; a <=user; a++)
-//     console.log(a);
+//     document.write(a);
 
 // TASK : 10
 let StartNum =prompt("Enter Start Number:");
